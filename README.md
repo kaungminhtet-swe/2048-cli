@@ -27,13 +27,13 @@ Below are some images showing the flow of playing the 2048 CLI game:
 1. **First Move**: The initial state of the game after the first move.
    ![First Move](./assets/first_move.png)
 
-2. **Second Moves**: The state of the game after making a few moves.
+2. **Second Move**: The state of the game after making the first move.
    ![Second Moves](./assets/second_move.png)
 
-3. **Thrid Moves**: The state of the game after making a few moves.
+3. **Thrid Move**: The state of the game after making the second move.
    ![Second Moves](./assets/third_move.png)
 
-4. **Exiting the game**: The state of the game after making a few moves.
+4. **Exiting the game**: Exiting the game.
    ![Second Moves](./assets/exiting.png)
 
 Contributing
